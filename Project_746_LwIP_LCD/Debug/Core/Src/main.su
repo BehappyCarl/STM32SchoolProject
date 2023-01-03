@@ -1,0 +1,15 @@
+../Core/Src/main.c:114:5:_write	32	static
+../Core/Src/main.c:123:7:connectedToServer	432	static
+../Core/Src/main.c:175:6:ClearTouchedMarks	16	static
+../Core/Src/main.c:200:7:SetNewTouchedMarks	16	static
+../Core/Src/main.c:233:9:SetANewConnection	24	static
+../Core/Src/main.c:244:12:ReadTouch	64	static
+../Core/Src/main.c:316:5:main	24	static
+../Core/Src/main.c:399:6:SystemClock_Config	88	static
+../Core/Src/main.c:456:13:MX_DMA2D_Init	8	static
+../Core/Src/main.c:493:13:MX_LTDC_Init	112	static
+../Core/Src/main.c:575:13:MX_QUADSPI_Init	8	static
+../Core/Src/main.c:610:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:641:13:MX_FMC_Init	40	static
+../Core/Src/main.c:692:13:MX_GPIO_Init	72	static
+../Core/Src/main.c:745:6:Error_Handler	4	static,ignoring_inline_asm
